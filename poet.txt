@@ -4,3 +4,6 @@ Tiga
 Empat
 Lima 
 Enam
+Tujuh 
+Delapan
+Sembilan
